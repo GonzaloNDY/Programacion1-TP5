@@ -1,0 +1,7 @@
+Suele decirse que programar en lenguaje en C es muy difícil!!! y las grandes masas no comprenden
+por qué, ya que sienten que al leer en un fin de semana un Manual sobre lenguaje en C,
+comprenderlo y aplicar exitosamente los Ejemplos del Texto han dominado el lenguaje. Y es allí el
+gran error, el lenguaje en C es mucho más que su propio contenido. Yo solía decir, años atrás en que
+impartí varios Cursos de lenguaje en C, que el citado lenguaje no era complejo, por el contrario, es
+estupendamente sencillo y explícito, que su auténtico valor radica en su amplio alcance y versátil
+profundidad.
